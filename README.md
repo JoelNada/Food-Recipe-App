@@ -1,5 +1,5 @@
 # Food-Recipe-App
-A Food Recipe Mobile App built in React-Native
+An all Food Recipe Mobile App that provides all types of cuisines, built in React-Native
 Steps to run this application and debug it in your target device.
 
 1.) npx react-native upgrade (to regenerate the adnroid and ios files, which are necessary).
